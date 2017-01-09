@@ -88,7 +88,7 @@ Your Test Oracle should list several first and last names, and the corresponding
 First Name | Last Name | UserName
 ---------- | --------- | --------
 Daniel | Wilson | dwilsoXX
-Jonathan | Anderson | janderXX
+Joan | Anderson | janderXX
 Betsy | Cartright | bcartrXX
 
 ### Lab #4
