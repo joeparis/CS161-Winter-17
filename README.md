@@ -58,7 +58,7 @@ Programming assignments will be given throughout the quarter.
 
 All programming assignments must include a "header" which includes your name, class name, date, assignment number and description. More details will be given in class.
 
-All programming assignments must turned in at the beginning of the class period on the date due.
+Assignments are due at 5:00 p.m. on thier due date.
 
 It is recommended that you use the computers in the labs in McKenzie Hall (MKH-105, MKH-103) or the Library Computer Lab. You are responsible for checking the lab schedule for its hours.
 
