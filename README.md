@@ -50,21 +50,7 @@ This class will strongly emphasize *peer instruction* in which all students in t
 
 While in class, please set your cell phone to *vibrate*. If you need to take a call, please step out of the room to do so.
 
-## Written Assignments
-
-Written assignments from your text book will be given throughout the quarter. All written assignments must be word processed and spell- and grammar-checked.
-
-All written assignments must include a header which includes your name, class name, date, assignment number and description. An example header is given in the Assignments and Labs document.
-
-All written assignments must turned in at the beginning of the class period on the date due.
-
-It is recommended that you use the computers in the labs in McKenzie Hall (MKH-105, MKH-103) or the Library Computer Lab. You are responsible for checking the lab schedule for its hours.
-
-Alternately, you may use your own personal computers provided it has any required software installed.
-
-Written assignments may not be submitted via e-mail.
-
-Instructions for submitting written assignments will be given in class.
+Assignments may not be submitted via e-mail.
 
 ## Programming Assignments
 
@@ -130,9 +116,8 @@ Tutors are generally available for this and other computer science classes.  Che
 
 Category | Percent
 -------- | -------
-Written Assignments | 10%
-Programming Assignments | 20%
-Labs & Lab Worksheets | 20%
+Programming Assignments | 25%
+Labs & Lab Worksheets | 25%
 Quizzes | 20%
 Final Exam | 30%
 
