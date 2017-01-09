@@ -4,7 +4,7 @@
 
 Office: MKH-116  
 Email: joe.paris@linnbenton.edu  
-Course web site: `http://joeparis.net`
+Web site: `http://joeparis.net`
 
 ## Course Description
 
