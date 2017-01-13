@@ -40,8 +40,7 @@ Monday, March 20, 3:00–4:50 P.M. in T-119.
 
 You must turn in:
 
-1. A printed copy of your code with the appropriate header (see instructions below).
-1. An electronic copy of your code in a folder created on your LBCC Student Google Drive and shared with your instructor. Name your folder with your last name, first name, and class name in parenthesis. For each assignment create a new folder inside this one and name if after the assingment, lab, or worksheet you are submitting.
+1. An electronic copy of all of your code in a folder created on your LBCC Student Google Drive and shared with your instructor. Name your folder with your last name, first name, and class name in parenthesis. For each assignment create a new folder inside this one and name if after the assingment, lab, or worksheet you are submitting.
 
 ## Header
 
