@@ -5,7 +5,7 @@ Assignment | Description | Due Date
 Assign #1 | pg 52 Exercises 1.3, 1.14, 1.15, 1.17, 1.20 | Jan 13
 Worksheet #1 | Java code and Answers to questions | Jan 18
 Lab #1 | pg 56 Project 1.10 (initials) | Jan 18
-Assign #2 | pg 106 Exercises 2.4, 2.7, 2.9, 2.10, 2.17 | Jan 20
+Assign #2 | pg 106 Exercises 2.4, 2.7, 2.9, 2.10, 2.17 | Jan 23
 Worksheet #2 | Java code and Answers to questions | Jan 23
 Lab #2 | pg 110 Project 2.14 (Snowman) | Jan 25
 Assign #3 | pg 155 Exercises 3.1, 3.2, 3.5, 3.7, 3.9 | Jan 27
