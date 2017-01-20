@@ -14,7 +14,7 @@ Lab #3 | pg 157 Project 3.1** (User name) | Feb 1
 Assign #4 | pg 200 Exercises 4.1, 4.2, 4.5 & SR 4.10, 4.13 | Feb 3
 Worksheet #4 | Java code and Answers to questions | Feb 6
 Lab #4 | pg 202 Project 4.4** (Dog class) | Feb 8
-Assign #5 | pg  ? SelfReview 4.20,4.24,4.30,4.32,4.34 | Feb 10
+Assign #5 | pg various SelfReview 4.20, 4.24, 4.30, 4.32, 4.34 | Feb 10
 Worksheet #5 | Java code and Answers to questions | Feb 13
 Lab #5 | pg 203 Project 4.12** (Crayons ) | Feb 15
 Assign #6 | pg 201 Exercises 4.6, 4.7, 4.8, 4.10, 4.11 | Feb 17
@@ -50,7 +50,7 @@ You must include the following header at the top of all file you submit.
 // **************************************************************
 // Name:
 // CS161 Winter 2017
-// Assignment/Lab/Worsheet #
+// Assignment/Lab/Worksheet #
 // Class time:
 // Date:
 // Program Name:
