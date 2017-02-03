@@ -11,7 +11,7 @@ Lab #2 | pg 110 Project 2.14 (Snowman) | Jan 25
 Assign #3 | pg 155 Exercises 3.1, 3.2, 3.5, 3.7, 3.9 | Jan 27
 Worksheet #3 | Java code and Answers to questions | Jan 30
 Lab #3 | pg 157 Project 3.1** (User name) | Feb 1
-Assign #4 | pg 200 Exercises 4.1, 4.2, 4.5 & SR 4.10, 4.13 | Feb 3
+Assign #4 | pg 200 Exercises 4.1, 4.2, 4.5 & SR 4.10 (pg 169) & 4.13 (pg 172) | Feb 3
 Worksheet #4 | Java code and Answers to questions | Feb 6
 Lab #4 | pg 202 Project 4.4** (Dog class) | Feb 8
 Assign #5 | pg various SelfReview 4.20, 4.24, 4.30, 4.32, 4.34 | Feb 10
